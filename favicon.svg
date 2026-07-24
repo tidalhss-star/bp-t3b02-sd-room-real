@@ -1,8 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
-  <defs><linearGradient id="bgt3b0" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0%" stop-color="#e65100"/><stop offset="100%" stop-color="#006064"/>
-  </linearGradient></defs>
-  <rect width="32" height="32" rx="6" fill="url(#bgt3b0)"/>
-  <polygon points="16,2 27,8 27,22 16,28 5,22 5,8" fill="rgba(230,81,0,0.9)" stroke="rgba(0,96,100,0.6)" stroke-width="2"/>
-  <text x="16" y="21" text-anchor="middle" fill="#fff" font-size="8" font-weight="700" font-family="system-ui">T3</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <title>신도림 룸싸롱 내돈내산</title>
+  <rect width="64" height="64" rx="17" fill="hsl(108 57% 34%)"/>
+  <path d="M64 0v26L38 0Z" fill="hsl(203 68% 61%)" opacity="0.16"/>
+  <g transform="rotate(90 32 32)"><path d="M12 44 26 24l10 12 6-8 8 16Z" fill="hsl(203 68% 61%)"/><path d="M12 44 26 24l10 12" fill="none" stroke="hsl(108 24% 96%)" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/></g>
 </svg>
