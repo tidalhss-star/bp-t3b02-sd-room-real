@@ -1,206 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sindorim-room-review.hardcoreroom.com/about.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sindorim-room-review.hardcoreroom.com/</loc>
-    <lastmod>2026-05-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://sindorim-room-review.hardcoreroom.com/about.html</loc>
-    <lastmod>2026-05-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sindorim-room-review.hardcoreroom.com/posts/gemini-coverage-20260719-0499.html</loc>
-    <lastmod>2026-07-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sindorim-room-review.hardcoreroom.com/posts/gemini-coverage-20260719-0500.html</loc>
-    <lastmod>2026-07-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sindorim-room-review.hardcoreroom.com/posts/gemini-coverage-20260719-0365.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-review.hardcoreroom.com/posts/gemini-coverage-20260719-0366.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-review.hardcoreroom.com/posts/gemini-coverage-20260719-0367.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-review.hardcoreroom.com/posts/gemini-coverage-20260719-0368.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-review.hardcoreroom.com/posts/gemini-coverage-20260719-0369.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-review.hardcoreroom.com/posts/gemini-coverage-20260719-0370.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-review.hardcoreroom.com/posts/gemini-coverage-20260719-0371.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-review.hardcoreroom.com/posts/gemini-coverage-20260719-0372.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-review.hardcoreroom.com/posts/gemini-coverage-20260719-0373.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-review.hardcoreroom.com/posts/gemini-coverage-20260719-0374.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-review.hardcoreroom.com/posts/gemini-coverage-20260719-0375.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-review.hardcoreroom.com/posts/gemini-coverage-20260719-0376.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-review.hardcoreroom.com/posts/gemini-coverage-20260719-0377.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-review.hardcoreroom.com/posts/gemini-coverage-20260719-0378.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-review.hardcoreroom.com/posts/gemini-coverage-20260719-0379.html</loc>
-    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sindorim-room-review.hardcoreroom.com/posts/gemini-coverage-20260719-0499.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sindorim-room-review.hardcoreroom.com/posts/gemini-coverage-20260719-0500.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-review.hardcoreroom.com/posts/gemini-coverage-20260721-0084.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-review.hardcoreroom.com/posts/gemini-coverage-20260721-0085.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-review.hardcoreroom.com/posts/gemini-coverage-20260721-0086.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-review.hardcoreroom.com/posts/gemini-coverage-20260721-0087.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-review.hardcoreroom.com/posts/gemini-coverage-20260722-0364.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-review.hardcoreroom.com/posts/gemini-coverage-20260722-0365.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-review.hardcoreroom.com/posts/gemini-coverage-20260722-0366.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-review.hardcoreroom.com/posts/gemini-coverage-20260722-0367.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-review.hardcoreroom.com/posts/gemini-coverage-20260722-0368.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-review.hardcoreroom.com/posts/gemini-coverage-20260722-0369.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-review.hardcoreroom.com/posts/gemini-coverage-20260722-0370.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-review.hardcoreroom.com/posts/gemini-coverage-20260722-0371.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-review.hardcoreroom.com/posts/gemini-coverage-20260722-0372.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-review.hardcoreroom.com/posts/gemini-coverage-20260722-0373.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-review.hardcoreroom.com/posts/gemini-coverage-20260722-0374.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
